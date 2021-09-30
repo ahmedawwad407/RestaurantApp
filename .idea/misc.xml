@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable-v24/edit_text_background.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable-v24/view_page.xml" value="0.23425925925925925" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/button_shape.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/card_background.xml" value="0.23378378378378378" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/card_background1.xml" value="0.23378378378378378" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/custom_tab_bg.xml" value="0.1265765765765766" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/custome_dialog.xml" value="0.23066666666666666" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/edit_text_background2.xml" value="0.23378378378378378" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/edit_text_background3.xml" value="0.23378378378378378" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/search_back.xml" value="0.23378378378378378" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/search_back2.xml" value="0.23378378378378378" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/shadow_button.xml" value="0.12747747747747748" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/tab_background_selected.xml" value="0.1265765765765766" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/drawable/tab_background_unselected.xml" value="0.1265765765765766" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout-v28/activity_rate_us.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_advertising.xml" value="0.12" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_cart.xml" value="0.12" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_content_layout.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_help.xml" value="0.20765765765765765" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_location.xml" value="0.264" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_my_appetizers.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_my_drink.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_my_meals.xml" value="0.152" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_my_sweet.xml" value="0.20765765765765765" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_notification.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_password_reminder.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_payment.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_personality.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_prefernses.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_profile.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_rate_us.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_show_details.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/activity_today_meal.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/custom_dialog.xml" value="0.4462081128747795" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/data_help.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/data_notification.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/fragment_content.xml" value="0.11261261261261261" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/fragment_on_bording_1.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/fragment_on_bording_2.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/fragment_on_bording_3.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/login_tap_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/meals.xml" value="0.6" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/meals2.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/meals_card.xml" value="0.4" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/my_help.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/my_meals.xml" value="0.264" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/my_meals_prefernses.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/my_notification.xml" value="0.21981981981981982" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/register_tap_fragment.xml" value="0.176" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/search_item.xml" value="0.2" />
+        <entry key="..\:/Users/awwad/AndroidStudioProjects/MyRestaurantApp/app/src/main/res/layout/search_item2.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

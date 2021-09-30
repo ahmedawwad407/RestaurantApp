@@ -1,0 +1,90 @@
+<resources>
+
+
+    <string name="app_name">FataFeetRestaurant</string>
+    <string name="text_splash">FataFeetRestaurant</string>
+    <string name="text_boarding">FataFeetRestaurant</string>
+    <string name="text_boarding1">Easy Of Ordering</string>
+    <string name="textBtn_boarding">Continue</string>
+    <string name="text_boarding2">Acsess Of Speed</string>
+    <string name="text_boarding3">Exact Accuracy</string>
+    <string name="YourEmail">YourEmail</string>
+    <string name="password">password</string>
+    <string name="Password_reminder">Are you firget your password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="name_error">Please enter the correct Name </string>
+    <string name="email_error">Please enter the correct email</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="password_error">Please enter the correct password</string>
+    <string name="ConfirmPassword_error">Please enter the correct password confirmation</string>
+    <string name="phone_error">Please enter the correct Phone</string>
+    <string name="address_error">Please enter the correct Address</string>
+    <string name="NotMatchPass_error">Password does not match</string>
+    <string name="error_invalid_password">Please enter a password of at least 6 characters</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="resetpassword">ٌReset Password</string>
+    <string name="DontHaveAccount">Don’t have an Account? Signup</string>
+    <string name="appetizers">appetizers</string>
+    <string name="sweets">sweets</string>
+    <string name="drinks">drinks</string>
+    <string name="meals">meals</string>
+    <string name="today_s_meal">Today\'s meal</string>
+    <string name="all_meals">All</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="favorite">Favorite</string>
+    <string name="alert">Alert</string>
+    <string name="today_meal"> grilled fish with vegetables.\nIngredients: fish, vegetables, sauce and lemon,\nincluding potatoes and a drink.</string>
+    <string name="price_meal">And at the offer price</string>
+    <string name="sweet">sweet</string>
+    <string name="cart">Cart</string>
+    <string name="checkout">CheckOut</string>
+    <string name="location">Location</string>
+    <string name="payment">Payment</string>
+    <string name="cardnumber">CARD NUMBER</string>
+    <string name="cardholder">CARD HOLDER</string>
+    <string name="expire_date">EXPIRE DATE</string>
+    <string name="add_to_card">Add To Card</string>
+    <string name="username">User Name</string>
+    <string name="userpersonality">User Personality</string>
+    <string name="advertising">Advertising</string>
+    <string name="help">Help</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="personality">Personality</string>
+    <string name="prefernses">Prefernses</string>
+    <string name="notification">Notification</string>
+    <string name="rate_us">Rate us</string>
+    <string name="follow_us">Follow us</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="messageAlert">Do you want to Sign out of the application?</string>
+    <string name="waitDialog">Please Wait</string>
+    <string name="signIn_dialog">Signing in.....</string>
+    <string name="creatAccountDialog">Create Account.....</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="yourphone">Your Phone</string>
+    <string name="youraddress">Your Address</string>
+    <string name="title_activity_advertising">AdvertisingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="language">language</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="chooseLanguage">choose the language...</string>
+    <string name="today_mealHeader">Today meal</string>
+    <string name="search_your_food">Search Your Food</string>
+    <string name="ordernow">OrderNow</string>
+    <string name="preferances_dialog">Do you want to remove the meal from the favourites?</string>
+
+
+</resources>

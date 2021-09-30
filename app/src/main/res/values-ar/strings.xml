@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مطعم فتافيت</string>
+    <string name="text_splash">مطعم فتافيت</string>
+    <string name="text_boarding">مطعم فتافيت</string>
+    <string name="text_boarding1">سهولة الطلب</string>
+    <string name="textBtn_boarding">استمر</string>
+    <string name="text_boarding2">السرعة في الوصول</string>
+    <string name="text_boarding3">الدقة التامة</string>
+    <string name="YourEmail">الايميل الخص بك</string>
+    <string name="password">كلمة المرور</string>
+    <string name="Password_reminder">هل نسيت كلمة مرورك؟</string>
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="sign_up">التسجيل</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="name_error">الرجاء ادخال الاسم الصحيح </string>
+    <string name="phone_error">الرجاء ادخال رقم الهاتف الصحيح</string>
+    <string name="email_error">الرجاء ادخال البريد الإلكتروني الصحيح</string>
+    <string name="error_invalid_email">البريد الإلكتروني غير صالح</string>
+    <string name="password_error">الرجاء ادخال كلمة المرور الصحيحة</string>
+    <string name="ConfirmPassword_error">الرجاء ادخال كلمة مرور التأكيد الصحيحة</string>
+    <string name="NotMatchPass_error">كلمة المرور غير متطابقة</string>
+    <string name="error_invalid_password">الرجاء إدخال كلمة مرور لا تقل عن 6 أحرف</string>
+    <string name="address_error">الرجاء ادخال العنوان الخاص بك بشكل الصحيح</string>
+    <string name="forgot_password">هل نسيت كلمة مرورك؟</string>
+    <string name="resetpassword">اعادة تعيين كلمة المرور</string>
+    <string name="DontHaveAccount">اذا لم تمتلك حساب؟ التسجيل من هنا</string>
+    <string name="appetizers">المقبلات</string>
+    <string name="sweets">الحلويات</string>
+    <string name="drinks">المشروبات</string>
+    <string name="meals">الوجبات</string>
+    <string name="today_s_meal">وجبة اليوم</string>
+    <string name="all_meals">الجميع</string>
+    <string name="home">الرئيسية</string>
+    <string name="profile">ملف الشخصي</string>
+    <string name="favorite">المفضل لدي</string>
+    <string name="alert">الاشعارات</string>
+    <string name="today_meal">عبارة عن السمك المشوي مع الخضروات\nالمكونات : السمك و الخضراوات والصوص و الليمون\nتشمل البطاطا والمشروب.</string>
+    <string name="price_meal">وبسعر العرض</string>
+    <string name="sweet">الحلويات</string>
+    <string name="cart">سلة الوجبات</string>
+    <string name="checkout">الدفع</string>
+    <string name="location">الموقع</string>
+    <string name="payment">القسط</string>
+    <string name="cardnumber">رقم البطاقة</string>
+    <string name="cardholder">حامل البطاقة</string>
+    <string name="expire_date">تاريخ انتهاء الصلاحية</string>
+    <string name="add_to_card">اضافة الى سلة الوجبات</string>
+    <string name="username">اسم االمستخدم</string>
+    <string name="userpersonality">معلومات المستخدم</string>
+    <string name="advertising">الإعلانات</string>
+    <string name="help">المساعدة</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="personality">معلومات المستخدم</string>
+    <string name="prefernses">المفضل لدي</string>
+    <string name="notification">الإشعارات</string>
+    <string name="rate_us">التقييم</string>
+    <string name="follow_us">تابعنا</string>
+    <string name="Yes">نعم</string>
+    <string name="No">لا</string>
+    <string name="search_your_food"> ابحث عن وجباتك</string>
+    <string name="ordernow">اطلب الآن</string>
+    <string name="preferances_dialog">هل تريد حذف الوجبة من قائمة التفضيلات؟</string>
+
+    <string name="messageAlert">
+هل تريد تسجيل الخروج من التطبيق؟</string>
+    <string name="waitDialog">الرجاء الإنتظار</string>
+    <string name="signIn_dialog">جاري تسجيل الدخول.....</string>
+    <string name="creatAccountDialog">جاري إنشاء الحساب.....</string>
+    <string name="title_activity_location">الموقع</string>
+    <string name="yourphone">رقم الهاتف الخاص بك</string>
+    <string name="youraddress">العنوان الخاص بك</string>
+    <string name="title_activity_advertising">الإعلانات</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="chooseLanguage">إختيار اللغة...</string>
+    <string name="today_mealHeader">وجبة اليوم</string>
+
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+</resources>
